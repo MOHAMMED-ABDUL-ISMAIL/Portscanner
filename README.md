@@ -28,5 +28,5 @@ sudo bash setup.sh
 
 # USAGE
 
-python3 portscanner -i 127.0.0.1 
+python3 portscanner -ip 127.0.0.1 
 
