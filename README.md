@@ -6,7 +6,7 @@ Portscanner is python based port and services scanner...
 
 sudo git clone https://github.com/MOHAMMED-ABDUL-ISMAIL/Portscanner.git
 
-cd Portmapper/
+cd Portscanner/
 
 sudo chmod +x setup.sh
 
