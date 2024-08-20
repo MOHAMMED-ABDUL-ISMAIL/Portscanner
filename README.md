@@ -25,3 +25,8 @@ sudo bash setup.sh
 -s or --start_port - Port Number to start scan From
 
 -e or --end_port - Port Number To end scan At
+
+# USAGE
+
+python3 portscanner -i 127.0.0.1 
+
