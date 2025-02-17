@@ -2,6 +2,8 @@
 
 Portscanner is python based port and services scanner...
 
+Works for only debian based OS
+
 # Installation
 
 sudo git clone https://github.com/MOHAMMED-ABDUL-ISMAIL/Portscanner.git
@@ -30,3 +32,8 @@ sudo bash setup.sh
 
 python3 portscanner -ip 127.0.0.1 
 
+# DISCLAIMER
+
+This tool is only and only for  educational purposes and should only be used on networks where the user owns that network or has permission to scan it.
+
+THE AUTHOR OF THIS TOOL IS NOT RESPONSIBLE FOR ANY KIND OF DISCRIPENCY.
